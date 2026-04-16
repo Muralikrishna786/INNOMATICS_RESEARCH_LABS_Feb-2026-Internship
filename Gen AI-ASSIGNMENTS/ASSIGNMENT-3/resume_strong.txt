@@ -1,0 +1,9 @@
+John Doe
+Python Developer
+
+Skills:
+Python, Machine Learning, NLP, SQL, Pandas
+
+Experience:
+2 years experience in building ML models and data pipelines.
+Worked on NLP projects using transformers.
